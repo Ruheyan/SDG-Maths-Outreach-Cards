@@ -11,7 +11,7 @@ Designed for:
 
 ## About
 
-This project explores how mathematics can help sustainability through accessible hands-on activities and visual explanations.
+This project explores how mathematics can help sustainability through accessible hands-on activities and visual explanations. Non-commercial educational outreach resource. Contact author for collaborations or commercial use.
 
 Examples include:
 - packing problems
@@ -32,6 +32,7 @@ Examples include:
 Rukia Nuermaimaiti  
 Teaching Fellow in Statistics  
 Imperial College London
+E-mail: r.nuermaimaiti@imperial.ac.uk
 
 ## Citation
 
