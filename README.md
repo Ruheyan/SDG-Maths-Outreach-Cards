@@ -1,2 +1,44 @@
-# SDG-Maths-Outreach-Cards-
-Interactive outreach cards connecting mathematics with the UN Sustainable Development Goals (SDGs) through visual puzzles, games, and real-world applications.
+# SDG Maths Outreach Cards
+
+Interactive outreach cards connecting mathematics with the UN Sustainable Development Goals (SDGs) through visual puzzles, games, modelling, optimisation, and real-world applications.
+
+Designed for:
+- public engagement
+- schools
+- festivals
+- outreach events
+- interdisciplinary teaching
+
+## About
+
+This project explores how mathematics can help sustainability through accessible hands-on activities and visual explanations.
+
+Examples include:
+- packing problems
+- shortest route problems
+- voting systems
+- networks
+- optimisation
+- geometry
+- population dynamics
+- climate modelling
+
+## Files
+
+- `SDG game.pdf` — printable outreach cards
+
+## Author
+
+Rukia Nuermaimaiti  
+Teaching Fellow in Statistics  
+Imperial College London
+
+## Citation
+
+If you use these cards in teaching, outreach, workshops, or publications, please cite or acknowledge this project.
+
+## License
+
+This project is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+
+https://creativecommons.org/licenses/by/4.0/
