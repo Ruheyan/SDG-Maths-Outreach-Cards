@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "SDG Maths Outreach Cards"
+message: "If you use these cards, please cite this repository."
+type: dataset
+authors:
+  - family-names: Nuermaimaiti
+    given-names: Rukia
+    affiliation: Imperial College London
+repository-code: https://github.com/Ruheyan/SDG-Maths-Outreach-Cards
+license: CC-BY-4.0
