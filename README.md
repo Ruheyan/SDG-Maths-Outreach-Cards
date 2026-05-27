@@ -25,7 +25,7 @@ Examples include:
 
 ## Files
 
-- `SDG game.pdf` — printable outreach cards
+- `SDG_game.pdf` — printable outreach cards
 
 ## Author
 
