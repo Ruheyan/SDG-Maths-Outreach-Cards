@@ -32,6 +32,7 @@ Examples include:
 Rukia Nuermaimaiti  
 Teaching Fellow in Statistics  
 Imperial College London
+
 E-mail: r.nuermaimaiti@imperial.ac.uk
 
 ## Citation
