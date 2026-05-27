@@ -39,6 +39,8 @@ If you use these cards in teaching, outreach, workshops, or publications, please
 
 ## License
 
-This project is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license.
 
-https://creativecommons.org/licenses/by/4.0/
+Commercial use is not permitted without permission from the author.
+
+https://creativecommons.org/licenses/by-nc/4.0/
