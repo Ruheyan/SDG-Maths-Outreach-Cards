@@ -44,3 +44,5 @@ This project is licensed under the Creative Commons Attribution-NonCommercial 4.
 Commercial use is not permitted without permission from the author.
 
 https://creativecommons.org/licenses/by-nc/4.0/
+
+For commercial use, adaptation, collaboration, or workshop enquiries, please contact the author.
